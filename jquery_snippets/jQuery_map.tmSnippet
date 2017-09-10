@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>jQuery.map</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>jQuery.map</string>
 	<key>uuid</key>

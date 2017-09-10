@@ -1,3 +1,7 @@
+# jQuery Snippets for Coffeescript
+
+This is a custom fork of the jQuery snippets package [Sublime jQuery](https://github.com/SublimeText/jQuery). I am in progress making it work for .coffee files. The following is the original readme.
+
 # jQuery Package for Sublime Text
 
 This is a Sublime Text bundle to help with jQuery functions. It has syntax highlighting and almost all of the jquery methods as snippets.
